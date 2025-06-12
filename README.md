@@ -22,6 +22,13 @@ This app is designed with streamer safety in mind:
 
 ---
 
+## ⬇️ Download
+
+**Windows Users:**
+
+1. [Click here to download the latest `.exe`](https://github.com/Leizest-general/vtube-color-tool/releases) *(safe & standalone)*
+2. Double-click the file to run (no installation needed)
+
 ## 🧰 How to Use
 
 ### 1. Start VTubeStudio and enable API access:
