@@ -55,10 +55,10 @@ PyQt5
 
 Install with:
 
-bash
-Copy
-Edit
+
+```bash
 pip install websockets PyQt5
+```
 ## 📂 Files
 vtube_recolor_tool.py: main source code
 
