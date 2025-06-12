@@ -80,4 +80,4 @@ Would you like me to:
 
 Let me know!
 
-[If you want to check how safe the file is, ask an AI you trust or developer!](./2025-06-12 12-34-38.mp4)
+[If you want to check how safe the file is, ask an AI you trust or developer!](./assets/2025-06-12 12-34-38.mp4)
