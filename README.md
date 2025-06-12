@@ -36,12 +36,16 @@ This app is designed with streamer safety in mind:
 
 ### 2. Run the app:
 - If using source: `python vtube_recolor_tool.py`
-- If using the `.exe`, just double-click
+- If using the `.exe`, just go to /dist and double-click `vtube_recolor_tool.exe`
 
 ### 3. Select ArtMeshes and create groups
 - Use the UI to pick layers
 - Assign them to a group (e.g., `hair`)
 - Pick a color and apply it
+
+### 4. Important notes
+- Remember to click save groups if you want it to remember the groups you created.
+- The applied colors will disappear the moment you close the app
 
 ---
 
