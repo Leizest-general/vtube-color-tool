@@ -79,3 +79,5 @@ Would you like me to:
 - Or help package this as a `.zip` for easy distribution?
 
 Let me know!
+
+[If you want to check how safe the file is, ask an AI you trust or developer!](./2025-06-12 12-34-38.mp4)
