@@ -72,10 +72,6 @@ MIT License. You may freely use, modify, and distribute.
 ## 💬 Contact
 If you're a streamer and have safety questions, feel free to open an Issue or reach out anonymously.
 
-yaml
-Copy
-Edit
-
 ---
 
 Would you like me to:
